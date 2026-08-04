@@ -6,7 +6,8 @@ A sleek, responsive, and interactive navigation menu overlay built with **pure H
 
 ## 🚀 Live Demo
 
-....
+Check out the live site here:  
+👉 **[https://nitinsaxenadev.github.io/nitin-captures-sidebar-mini-project/](https://nitinsaxenadev.github.io/nitin-captures-sidebar-mini-project/)**
 
 ---
 
@@ -32,8 +33,8 @@ A sleek, responsive, and interactive navigation menu overlay built with **pure H
 ## 📂 Project Structure
 
 ```text
-nitin-captures-sidebar/mini project
-├──README.md      # Project documentation
-├── index.html     # Main markup containing sidebar and toggle elements
-├──photo.jpg      # High-resolution hero background image
-├── style.css      # CSS styling, animations, and glassmorphism overlay
+nitin-captures-sidebar-mini-project/
+├── README.md        # Project documentation
+├── index.html       # Main markup containing sidebar and toggle elements
+├── photo.jpg        # High-resolution hero background image
+├── style.css        # CSS styling, animations, and glassmorphism overlay
